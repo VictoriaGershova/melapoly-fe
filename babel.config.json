@@ -6,7 +6,6 @@
         "useBuiltIns": "usage"
       }
     ],
-    "@babel/preset-react",
-    "@babel/polyfill"
+    "@babel/preset-react"
   ]
 }
