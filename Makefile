@@ -1,3 +1,6 @@
+develop:
+	npx webpack-dev-server
+
 install:
 	npm install
 
@@ -9,3 +12,4 @@ build:
 lint:
 	npx eslint 
 	
+.PHONY: test
